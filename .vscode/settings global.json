@@ -1,0 +1,23 @@
+{
+    "extensions.autoCheckUpdates": false,
+    "update.enableWindowsBackgroundUpdates": false,
+    "extensions.autoUpdate": false,
+    "update.showReleaseNotes": false,
+    "update.mode": "none",
+
+    "debug.inlineValues": "on",
+    "debug.autoExpandLazyVariables": true,
+
+    "editor.minimap.enabled": false,
+    "terminal.integrated.cursorBlinking": true,
+    "terminal.integrated.fontSize": 14,
+    "window.commandCenter": false,
+    "workbench.startupEditor": "none",
+    "explorer.autoReveal": false,
+    "explorer.compactFolders": false,
+    "breadcrumbs.enabled": true,
+    "terminal.integrated.defaultProfile.windows": "Command Prompt",
+    "files.autoSave": "afterDelay",
+    "terminal.integrated.enableMultiLinePasteWarning": "auto",
+    "workbench.colorTheme": "Default High Contrast"
+}
