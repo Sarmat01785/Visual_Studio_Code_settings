@@ -31,7 +31,7 @@
     "terminal.integrated.cursorBlinking": true,
     "terminal.integrated.fontSize": 14,
     "terminal.integrated.enableMultiLinePasteWarning": "auto",
-    "terminal.integrated.defaultProfile.windows": "Command Prompt",
+    "terminal.integrated.defaultProfile.windows": "PowerShell",
 
    
   
